@@ -9,8 +9,10 @@ body {
   margin: 0;
 }
 
-nav {
+nav a {
   text-align: center;
+  background-color: grey;
+  padding: 0 10px 0 10px;
 }
 
 img {
