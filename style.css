@@ -37,4 +37,5 @@ figure,figcaption {
   width: 800px;
   text-align: center;
   display: block;
+  margin-left: auto;
 }
