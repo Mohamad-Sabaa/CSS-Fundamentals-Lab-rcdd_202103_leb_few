@@ -9,8 +9,12 @@ body {
   margin: 0;
 }
 
-nav a {
+nav {
   text-align: center;
+}
+
+
+ a {
   background-color: grey;
   padding: 0 10px 0 10px;
 }
