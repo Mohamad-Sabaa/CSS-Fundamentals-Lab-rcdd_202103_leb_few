@@ -19,9 +19,6 @@ nav {
   padding: 0 10px 0 10px;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+figure {
+  text-align: center;
 }
