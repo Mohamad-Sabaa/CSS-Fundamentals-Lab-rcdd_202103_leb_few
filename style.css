@@ -40,7 +40,7 @@ figure,figcaption {
   margin-left: auto;
 }
 
-#details {
+#details > div {
     display: block;
     float: left;
 }
