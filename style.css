@@ -43,5 +43,9 @@ figure,figcaption {
 #details > div {
     display: block;
     float: left;
-    text-align: center;
+}
+
+div {
+  text-align: center;
+
 }
